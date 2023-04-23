@@ -26,7 +26,7 @@ Files required to reproduce the device can be found in the Hardware section of t
 
 ### PCB
 
-<img src="https://user-images.githubusercontent.com/88851382/233835004-bde6611e-34a7-46ee-a9cd-74797b62d04e.png" width="450"><img src="https://user-images.githubusercontent.com/88851382/233858264-692d44dd-7cad-4a20-9f79-ccd343e8895d.png" width="425">
+<img src="https://user-images.githubusercontent.com/88851382/233835004-bde6611e-34a7-46ee-a9cd-74797b62d04e.png" width="400"><img src="https://user-images.githubusercontent.com/88851382/233858264-692d44dd-7cad-4a20-9f79-ccd343e8895d.png" width="380">
 
 
 A 4 layer PCB is used to achieve the desired form factor. As can be seen the screen was the primary constraint on the size of the device. While other, smaller screens exist; their resolutions make it difficult to achieve the 20x4 character requirement. The design is not cost or BOM optimised, a lot of work could be done to reduce the pricing and number of parts required. Due to small number that I intended to create, I was not concerned with the cost.
